@@ -76,10 +76,12 @@ Click terminal and press:
 ### 🎮 Game Setup (Browser)
 
 1. Open a **side window**
-2. Visit:
-   https://tekkengameplay.com/tekken-mobile.html#google_vignette
+2. Visit: https://tekkengameplay.com/tekken-mobile.html#google_vignette
 3. Click on **Play**
 4. Keep the game window active while running the Python script
+
+Like this 
+<img width="757" height="530" alt="Screenshot 2025-12-24 223515" src="https://github.com/user-attachments/assets/22f13505-d35f-42cd-9ea5-5bf669985e84" />
 
 🔧 Gesture Logic Explained
 🥊 Punch Detection
