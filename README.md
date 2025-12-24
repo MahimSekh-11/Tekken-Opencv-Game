@@ -72,6 +72,15 @@ Click terminal and press:
 ```
   Ctrl + C
 ```
+
+### 🎮 Game Setup (Browser)
+
+1. Open a **side window**
+2. Visit:
+   https://tekkengameplay.com/tekken-mobile.html#google_vignette
+3. Click on **Play**
+4. Keep the game window active while running the Python script
+
 🔧 Gesture Logic Explained
 🥊 Punch Detection
 If wrist distance from shoulder > threshold → Z key
