@@ -81,7 +81,7 @@ Click terminal and press:
 4. Keep the game window active while running the Python script
 
 Like this 
-<img width="757" height="530" alt="Screenshot 2025-12-24 223515" src="https://github.com/user-attachments/assets/22f13505-d35f-42cd-9ea5-5bf669985e84" />
+<img width="1906" height="865" alt="Screenshot 2025-12-24 230738" src="https://github.com/user-attachments/assets/184a5dc7-c9f4-411e-8712-ca4008c2c2dc" />
 
 🔧 Gesture Logic Explained
 🥊 Punch Detection
